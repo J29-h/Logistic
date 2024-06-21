@@ -1,0 +1,30 @@
+___________________________________________________________________________
+
+Order Information:
+
+The ID No:101
+Total: 239
+CVV: 243
+Package ID: 33, Status: In Progress
+Payment Method: Credit Card
+Appointment Month: Aug
+Appointment Day: 14
+Appointment Time: From 06:00 A.M to 12:00 P.M
+
+Transport Feature Information:
+Vehicle ID: 445566
+Vehicle Name: Vehicle C.
+Hours: 12
+Capacity: Capacity: Between 7.5 & 9 Tons.
+Condition: No
+
+State: S.A
+City: Jed
+Street: al-mar
+Zip Code: 21345
+
+State: S.A
+City: Jed
+Street: Al-safa
+Zip Code: 53254
+
